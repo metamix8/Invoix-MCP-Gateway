@@ -70,7 +70,7 @@ Issue : https://github.com/metamix8/Invoix-MCP-Gateway/issues
 
 
 
-### MIT License
+## MIT License
 
 Copyright (c) 2026 invoix
 
