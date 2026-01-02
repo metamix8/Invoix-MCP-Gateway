@@ -1,12 +1,32 @@
 # MCP (Model Context Protocol) Local Gateway service
-Invoix: MCP-Powered Local Gateway for Natural Language Invoicing
-Invoix is an innovative Local Gateway service that leverages the Model Context Protocol (MCP) to redefine how you manage billing. By translating natural language into actionable database commands, it allows users to handle the entire invoice lifecycle—Create, Read, Update, and Delete (CRUD)—through simple conversational prompts.
 
-Key Features:
-Natural Language Processing: No complex forms; just tell the system what you need.
-Full Lifecycle Management: Effortlessly manage invoice generation, lookups, and modifications.
-Seamless Integration: Built on MCP for robust and secure local data handling.
-Experience it now: **https://invoix.shop**
+# Invoix: MCP-Powered Natural Language Invoicing
+
+### **Stop Filling Forms. Start Talking to Your Invoices.**
+
+Managing your business shouldn't be a chore. **Invoix** is an innovative Local Gateway service built on the **Model Context Protocol (MCP)** that redefines how you manage billing. 
+
+By translating natural language into actionable commands, Invoix allows you to handle the entire invoice lifecycle—**Create, Read, Update, and Delete (CRUD)**—through simple conversational prompts.
+
+---
+
+## 🚀 Key Features
+
+* **Natural Language Processing (NLP):** No complex forms or rigid UIs. Simply tell the system what you need (e.g., *"Create a $500 invoice for Gemini"*).
+* **Full Lifecycle Management:** Effortlessly manage invoice generation, instant lookups, and real-time modifications.
+* **Powered by MCP:** Leverages the Model Context Protocol for robust, secure, and seamless local data handling.
+* **User-Centric Efficiency:** Streamline your workflow by focusing on your business, not the data entry.
+
+---
+
+## 🌐 Get Started
+
+Experience the future of invoicing today at our official website:
+👉 **[http://invoix.shop](http://invoix.shop)**
+
+---
+*Built with passion for the MCP ecosystem.*
+
 
 # Invoix MCP Gateway for Claude Desktop
 MCP (Model Context Protocol) Local Gateway service for Claude Desktop.
