@@ -6,7 +6,7 @@ Key Features:
 Natural Language Processing: No complex forms; just tell the system what you need.
 Full Lifecycle Management: Effortlessly manage invoice generation, lookups, and modifications.
 Seamless Integration: Built on MCP for robust and secure local data handling.
-Experience it now: **https://invoix.site**
+Experience it now: **https://invoix.shop**
 
 # Invoix MCP Gateway for Claude Desktop
 MCP (Model Context Protocol) Local Gateway service for Claude Desktop.
